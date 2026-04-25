@@ -18,7 +18,7 @@ This curriculum was generated with the help of an AI (Claude). The schedule, pro
 - **Not let it write the core logic.** If I am building a write-ahead log and the AI writes my crash recovery code, I have skipped the exercise. The typing is not the point; the reasoning is.
 - **Not use it to avoid sitting with confusion.** The feeling of not knowing how to proceed — of staring at a half-working compaction algorithm and not understanding why it drops keys — is where the deepest learning happens. I need to resist the urge to immediately ask for the answer. Struggle first, then ask.
 
-The goal is to develop _judgment_ — the kind of tacit understanding that lets me look at a system (or at AI-generated code) and sense where the problems are before I can fully articulate why. That only comes from doing the hard thinking by myself.
+The goal is to develop _judgment_ — understanding that lets me look at a system (or at AI-generated code) and sense where the problems are before I can fully articulate why. That only comes from doing the hard thinking by myself.
 
 ## Schedule
 
